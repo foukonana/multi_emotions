@@ -23,3 +23,17 @@ The dataset used here is the GoEmotions.
 This is a dataset released from Google and it containes the emotions detected in those texts.  
 It is the largest manually annotated dataset of 58K English Reddit comments, labeled for 27 emotion categories or neutral.  
 Find the paper on [arXiv.org](https://arxiv.org/abs/2005.00547)
+
+<br />
+
+### Set up this project
+You will need: 
+* Python 3.6 or higher
+
+Create a python virtual environment, activate it and install requirements:
+
+```sh
+python3 -m venv multiemotions_env
+source multiemotions_env/bin/activate
+pip install -r requirements.txt
+```
