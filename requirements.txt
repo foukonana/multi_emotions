@@ -5,3 +5,4 @@ scikit-multilearn=0.2.0
 nltk=3.5
 matplotlib=3.3.2
 seaborn=0.11.0
+wordcloud=1.8.1
